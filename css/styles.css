@@ -80,6 +80,7 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
 .mediaAvatar {
   border-radius: 100%;
   height: 300px;
@@ -154,8 +155,4 @@ body {
 
 .itemsPannel .selected {
   color: #5d5d5e;
-}
-
-di2v {
-  border: 1px solid brown;
 }
